@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-   "homepage": "https://bohdan-ybf.github.io/hero-react",
+  "homepage": "https://bohdan-ybf.github.io/hero-react",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
